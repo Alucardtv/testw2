@@ -115,14 +115,14 @@
 	
 	.mainLayer .launcher .preview {
 		max-width: 100%;
-		max-height: 200px;
+		max-height: 100px;
 	}
 
 	.mainLayer .launcher {
 		position: relative;
 		float: left;
 		margin: 20px;
-		margin-bottom: 9999px;
+		margin-bottom: 100px;
 	}
 
 	.mainLayer .info {
