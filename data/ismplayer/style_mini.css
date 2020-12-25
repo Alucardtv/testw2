@@ -69,7 +69,7 @@
 
 }
 
-@media (max-height : 400px) and (orientation : portrait) {
+@media (max-height : 800px) and (orientation : portrait) {
 	
 	.mainLayer .launcher .preview {
 		max-height: 100px;
@@ -78,7 +78,7 @@
 	.mainLayer .info > h1 {
 		font-size: 22px;
 		line-height: 25px;
-		max-height: 50px;
+		max-height: 100px;
 	}
 	
 	.mainLayer .info > p {
